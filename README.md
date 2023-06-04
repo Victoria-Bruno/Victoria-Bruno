@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victoria. Aspiring Front-End Developer
+- 👋 Hi, I’m Victoria. Front-End Developer
 - 🌱 Developing with HTML, CSS, JavaScript, Bootstrap, API and Responsive Web Design
 - 🔜 Learning React
-- 💚 In love with all Tech, Digitalization and Design
+- 💚 In love with Tech, Digitalization and Design
