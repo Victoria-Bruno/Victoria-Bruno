@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Victoria. Aspiring Front-End Developer
-- 👩🏻‍💻 Engineering Doctorate (EngD) candidate in Designing Human-System Interaction @TU Eindhoven
-- 🌱 Learning React
-- 🚧 Working on a software for clinical use @Philips
-- 💚 Passionate about Tech and Design
+- 👋 Hi, I’m Victoria.
+- 🚧 Currently building clinical software @Philips (work-related projects are hosted privately on the company GitLab).
+- 🌱 Exploring Foundation Model integration, system design, and backend development.
+- 👩🏻‍💻 Engineering Doctorate (EngD) candidate in Designing Human-System Interaction @TU Eindhoven.
+- 💚 Passionate about Tech, Design and AI.
